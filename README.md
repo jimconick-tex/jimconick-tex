@@ -1,6 +1,6 @@
 # Hi! I'm Nicolás Jiménez Coria
 
-Master of Science in Physics with a background in scientific programming and numerical methods. Currently focused on Data Science, Machine Learning and Data Visualization.
+Master of Science in Physics from UNAM with a background in scientific programming and numerical methods. Currently focused on Data Science, Machine Learning and Data Visualization.
 
 My experience includes developing numerical algorithms, analyzing datasets, and building computational tools for scientific research.
 
