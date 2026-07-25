@@ -7,13 +7,9 @@ My experience includes developing numerical algorithms, analyzing datasets, and 
 ## Expertise
 
 - Quantum Many-Body Physics
-- Data Science
-- Machine Learning
-- Scientific Computing
-- Numerical Methods
-- Data Analysis
-- Data Visualization
-- Parallel programming
+- Data Science and Data Visualization
+- Scientific Computing and Numerical Simulations
+- Parallel Programming
 
 ## Technical Skills
 
