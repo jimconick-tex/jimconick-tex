@@ -6,6 +6,7 @@ My experience includes developing numerical algorithms, analyzing datasets, and 
 
 ## Expertise
 
+- Quantum Many-Body Physics
 - Data Science
 - Machine Learning
 - Scientific Computing
