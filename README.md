@@ -27,8 +27,8 @@ Git • GitHub • Linux • VS Code
 
 ## Selected Projects
 
-### Determinant Calculator
-Implementation of determinant computation from scratch using recursive expansion by minors.
+- 1D Bose–Einstein Condensate Simulation
+- Determinant Calculator
 <!-- Este texto es un comentario 
 ### Data Science Portfolio
 Collection of projects covering data analysis, visualization, machine learning, and statistics.
